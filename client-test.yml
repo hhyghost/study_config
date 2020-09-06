@@ -6,6 +6,6 @@ spring:
   application:
     name: client
 env:
-  test
+  test11
 label:
   release
