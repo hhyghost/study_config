@@ -12,3 +12,5 @@ env:
   test11
 label:
   release
+server:
+  port: 8081
