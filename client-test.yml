@@ -10,4 +10,6 @@ spring:
     password: 123456
   application: 
     name: client
-env: test11
+env: test
+
+hello: hello
